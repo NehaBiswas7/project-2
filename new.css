@@ -186,7 +186,7 @@ img {
  color: #ffffff;
  /* background: #180C16; */
  text-decoration: none;
- transition: all 1s ease-in-out;
+ transition: all 0.2s ease-in-out;
 }
 .navbar li a:hover{
     transform: scale(1.2);
@@ -206,8 +206,7 @@ img {
         right: 0;
         width: 356px;
         height: calc(100vh - 73px);
-        background: linear-gradient(to bottom , # , #ffffff );
-        
+        background: linear-gradient(to bottom , #E026C1 , #ffffff );
         flex-direction: column;
         justify-content: center;
         align-items: center;
@@ -300,7 +299,7 @@ img {
     color: #ffffff;
     padding: 15px 25px;
     border-radius: 10px;
-    transition: 1s ease-in-out;
+    transition: 0.5s ease-in-out;
     font-size: 18px;
     margin-bottom: 40px;
 
@@ -2453,6 +2452,7 @@ form button {
   @media (max-width: px){
 
  }
+
 
 
 
