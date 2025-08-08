@@ -261,7 +261,7 @@ img {
 }
 /* ******************************************** */
 .banner{
-  background: url(../img/blackbanner.png);
+  background: url(img/blackbanner.png);
   width: 100%;
   padding: 150px 0;
   object-fit: cover;
@@ -2453,6 +2453,7 @@ form button {
   @media (max-width: px){
 
  }
+
 
 
 
